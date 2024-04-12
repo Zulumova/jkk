@@ -1,0 +1,261 @@
+
+  .all{
+    background-color: rgb(131, 60, 152);
+    width: 1200px;
+    height: 500px;
+   } 
+
+.header{
+
+
+    display: flex;
+    justify-content: end;
+}
+.li.ol{
+
+    display: flex;
+    justify-content:end;
+
+
+
+}
+
+.h1{
+margin-right: 100px;
+    justify-content: flex-start;
+}
+.a{margin-top: 20px;
+margin-left: 20px;
+text-decoration: none;
+color: rgb(255, 255, 255);}
+.button{  
+  color: rgb(242, 242, 242);
+  border-radius: 20px;
+  background-color: rgb(59, 59, 159);
+  border: 0px;
+  margin-top: 15px;
+  margin-left: 20px;
+  width: 100px;
+  height: 30px;
+
+}
+.h1{ 
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    
+    letter-spacing: 3px;
+    color: rgb(255, 255, 255);
+}
+.p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-left: -100px;
+    margin-top: -50px;
+}
+.button1{color: rgb(242, 242, 242);
+    border-radius: 20px;
+    background-color: rgb(59, 59, 159);
+    border: 0px;
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 100px;
+   margin-left: 500px;
+   height: 30px;
+}
+.mein{
+    background-color: rgb(255, 255, 255);
+}
+.texs{
+    margin-left: 50px;
+    color: #49464f;
+}
+.ol{
+    margin-left: 30px;
+    color: #49464f; 
+}
+.button2{
+margin-left: 100px;
+color: rgb(242, 242, 242);
+    border-radius: 20px;
+    background-color: rgb(59, 59, 159);
+    border: 0px;
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 100px;
+
+   height: 30px;
+}
+.img{ width: 766px;
+    height: 359px;
+    left: 514px;
+    top: 956px;
+}
+.h2{
+    margin-left: 50px;
+    color: #49464f; 
+
+}
+.h5{
+    margin-left: 50px;
+    color: #49464f;  
+    margin-top: -20px; 
+    border: #49464f;
+}
+.image2{
+    
+    width: 334px;
+    height: 437px;
+    left: 123px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    margin-right: 20px;
+}
+.buttonimg{
+    margin-left: 100px;
+    color: rgb(3, 45, 233);
+        border-radius: 20px;
+        background-color: rgb(255, 255, 255);
+        border: 0px;
+        
+        margin-left: 200px;
+        width: 100px;
+    margin-top: -400px;
+       height: 30px;   
+}
+.h6{ margin: 500px;
+
+}
+.ip{
+    margin-top: -30px;
+}
+.buttonS{
+   border-radius: 16px; 
+   width: 120px;
+   height: 37px;
+   margin: 0px;
+   left: 20px;
+}
+.img3{
+    display: flex;
+    justify-content: flex-start;
+}
+.image4{
+    
+    width: 334px;
+    height: 437px;
+    left: 123px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    margin-right: 200px;
+}
+.image5{
+    
+    width: 334px;
+    height: 437px;
+    left: 123px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    margin-right: 20px;
+}
+.divimg{
+    background-image: url(/IMAGE\ \(6\).svg);
+    width: 1280px;
+    height: 715px;
+    
+}
+.divimg1{
+ color: rgb(255, 255, 255);
+ margin-left: 90px;
+ display: grid;
+ align-content: end;
+ line-height:67px;
+ font-size:65px;
+ 
+}
+.divimg2{
+color: rgb(255, 249, 249);
+margin-left: 90px;
+
+}
+.divimg3{
+
+    border-radius: 26px; 
+    width: 150px;
+    height: 47px;
+    margin: 0px;
+    margin-left: 80px;
+border: 0px;
+color: rgb(255, 255, 255);
+background-color: rgb(94, 94, 175);
+}
+.divimg4{color: rgb(255, 255, 255);
+    font-size:35px 
+
+}
+.tex1{display: flex;
+    justify-content:space-evenly; }
+    .div1{
+        display: flex;
+        justify-content:flex-start;
+
+    }
+    .div2{margin-right: 300px;
+margin-left: 90px;
+    }
+.but{
+    display: flex;
+    justify-content:end;
+
+}
+.h44{
+border-radius: 16px;
+background-color: rgb(249, 255, 255);
+
+}
+.but11{
+    margin-right: 100px;
+}
+.maincolor{
+background-color: rgb(184, 138, 196);
+width: 1200px;
+    height: 570px;
+
+}
+.sty{
+padding-top: 100px;
+padding-left: 70px;
+color: rgb(252, 252, 252);
+}
+.input{margin-left: 70px;
+    border: 0px;
+   border-radius: 10px; 
+   height: 30px
+}
+.hre{
+    color: aliceblue;
+    text-decoration: none;
+display: flex;
+align-self: flex-end;
+justify-content: center;
+margin-top: 20px;
+}
+.styy{justify-content:flex-start;
+    display: flex;
+    
+    color: rgb(252, 252, 252);
+
+
+}
+.hre1{margin-right: 100px;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.insta{
+    display: flex;
+    
+justify-content: end;
+margin-right: 40px;
+
+}
